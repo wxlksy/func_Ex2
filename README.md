@@ -1,3 +1,7 @@
+![Kotlin](https://img.shields.io/badge/Kotlin-9A00F5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+# func_Ex2
+
 Программа шифрования методом Вижинера
 
 Написать программу, реализующую шифровку и расшифровку сообщения с помощью шифра Виженера. 
